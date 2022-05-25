@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaMVVMReactive/App.axaml" value="AvaloniaMVVMReactive/AvaloniaMVVMReactive.csproj" />
+        <entry key="AvaloniaMVVMReactive/TodoListView.axaml" value="AvaloniaMVVMReactive/AvaloniaMVVMReactive.csproj" />
+        <entry key="AvaloniaMVVMReactive/Views/AddItemView.axaml" value="AvaloniaMVVMReactive/AvaloniaMVVMReactive.csproj" />
+        <entry key="AvaloniaMVVMReactive/Views/MainWindow.axaml" value="AvaloniaMVVMReactive/AvaloniaMVVMReactive.csproj" />
+        <entry key="AvaloniaMVVMReactive/Views/TodoListView.axaml" value="AvaloniaMVVMReactive/AvaloniaMVVMReactive.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
